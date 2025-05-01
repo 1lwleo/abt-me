@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hoxaak
 - 🌱 I’m currently learning LUA and Python
-- 📫 Contact me on Discord- 9384k
+- 📫 Contact me on Discord- 6fog
 
